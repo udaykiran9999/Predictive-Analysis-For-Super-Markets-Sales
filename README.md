@@ -6,8 +6,19 @@ Welcome to the Supermarket Sales Predictive Analysis Repository, your one-stop d
 
 ## Research Questions: 
 - How can we predict customer buying patterns using transaction history and demographic data, especially for new or seasonal products?
-- What machine learning models best optimize supply chain logistics to reduce waste and ensure availability of high-demand products?
-- How did the COVID-19 pandemic alter purchasing behaviors, and how can we use this data to forecast future market disruptions?
+- What machine learning models best optimize supply chain logistics to reduce waste and ensure the availability of high-demand products?
+- How did the COVID-19 pandemic alter purchasing behaviours, and how can we use this data to forecast future market disruptions?
 
 ## Methodology: 
+- Data 
+- Supervised Learning Approach.
+- ### Feature Engineering:
+  - Engineered relevant features such as seasonality, holidays, and lag variables to capture temporal and spatial dependencies in sales data. 
+- ### Model Selection:
+  - Evaluated various regression models including Linear Regression, SVR, KNN, Decision Trees, Random Forest, and Gradient Boosting Regressor. 
+- ### Model Evaluation:
+  - Utilized cross-validation techniques to assess model performance based on metrics like Mean Squared Error (MSE) and R-squared (R2) scores. 
+- ### Model Tuning:
+  - Optimized hyperparameters for the selected model (Gradient Boosting Regressor) to further enhance predictive accuracy.
+
 
