@@ -10,7 +10,12 @@ Welcome to the Supermarket Sales Predictive Analysis Repository, your one-stop d
 - How did the COVID-19 pandemic alter purchasing behaviours, and how can we use this data to forecast future market disruptions?
 
 ## Methodology: 
-- Data 
+- Data Acquisition and Preprocessing:
+  - The Dataset is stored in an Excel Spreadsheet containing the information of weekly retail food sales by product subcategory.
+  - The data can be processed to reveal comparative insights based on  the market dynamics.
+  - Segmentation of the market products that exhibit distinct preferences leads to refinement of the research question aiming at specific products.
+  - Sales data along with customer machine can be used to optimize product placements, promotions, and cross selling strategies in retail environments!
+
 - Supervised Learning Approach.
 - ### Feature Engineering:
   - Engineered relevant features such as seasonality, holidays, and lag variables to capture temporal and spatial dependencies in sales data. 
