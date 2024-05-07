@@ -4,3 +4,10 @@ Welcome to the Supermarket Sales Predictive Analysis Repository, your one-stop d
 
   Supermarkets face the challenge of optimizing sales performance amidst fluctuating consumer demands, market trends, and external factors. To address this challenge, a predictive analysis framework is needed to forecast supermarket sales accurately. The goal is to develop a robust predictive model that can anticipate sales patterns, identify influential factors, and provide actionable insights to enhance revenue generation and operational efficiency.
 
+## Research Questions: 
+- How can we predict customer buying patterns using transaction history and demographic data, especially for new or seasonal products?
+- What machine learning models best optimize supply chain logistics to reduce waste and ensure availability of high-demand products?
+- How did the COVID-19 pandemic alter purchasing behaviors, and how can we use this data to forecast future market disruptions?
+
+## Methodology: 
+
